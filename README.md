@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌧️ India Rainfall Data Visualization (1901–2015)
+# India Rainfall Data Visualization (1901–2015)
 
 ### 115 Years of Indian Monsoon Patterns Across Three Chart Types
 
